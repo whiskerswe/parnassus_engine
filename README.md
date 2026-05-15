@@ -1,6 +1,6 @@
 # parnassus_engine
 
-Python project using a `src/` layout.
+Python project using a `src/` layout. This is an experimental playground to learn more about music as data.
 
 ## Setup
 
