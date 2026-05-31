@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67907788-3d34-47c7-8662-f0f05aa6ca35" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/parnassus_engine.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parnassus_engine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/parnassus_engine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/wachterlied.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="21" />
+    <option name="cachedIndexableFilesCount" value="33" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python tests.Python tests for tests.test_smoke.test_version.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_musicxml_to_midi.py.executor&quot;: &quot;Run&quot;,
@@ -58,7 +57,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;read__music__xml&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -134,6 +133,9 @@
       <workItem from="1778828228943" duration="598000" />
       <workItem from="1778828856228" duration="381000" />
       <workItem from="1778912981731" duration="750000" />
+      <workItem from="1778922478100" duration="7000" />
+      <workItem from="1779469289501" duration="5014000" />
+      <workItem from="1779612941990" duration="2383000" />
     </task>
     <servers />
   </component>
